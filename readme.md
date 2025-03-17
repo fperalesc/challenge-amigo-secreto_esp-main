@@ -4,6 +4,9 @@
 
 Este proyecto permite a los usuarios agregar nombres de amigos, realizar el sorteo de un amigo secreto de manera aleatoria, y mostrar el nombre del ganador en pantalla. Ideal para juegos de intercambio de regalos o cualquier actividad donde se quiera asignar un *Amigo Secreto* de manera divertida y justa.
 
+### 🌐 Juega ahora:  
+Puedes jugar al **Sorteador de Amigo Secreto** directamente desde [este enlace](https://fperalesc.github.io/challenge-amigo-secreto_esp-main/).
+
 ## 🧑‍🤝‍🧑 ¿Cómo funciona?
 
 1. **Añadir Amigos**:  
